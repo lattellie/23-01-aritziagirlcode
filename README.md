@@ -1,6 +1,7 @@
 # 23-01-aritziagirlcode
 
 01/13~01/14 UBC GirlCode Hackathon project: Capsule Closet
+
 Input an image, produce the season color that suits the skin tone the best.
 
 # File Structure:
